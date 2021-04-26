@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "title": "Test din consola",
+      "date": "2021-03-30",
+      "body": "Lorem Ipsum",
+      "author": "Paul",
+      "id": 2
+    },
+    {
+      "title": "Inca un test",
+      "body": "bla bala",
+      "author": "Ionut",
+      "date": "2021-04-16",
+      "id": 4
+    },
+    {
+      "title": "Acum cu reset",
+      "body": "test",
+      "author": "Paul",
+      "date": "2021-04-15",
+      "id": 6
+    },
+    {
+      "title": "Inca odata cu reset",
+      "body": "asdas",
+      "author": "Paul",
+      "date": "2021-04-23",
+      "id": 7
+    },
+    {
+      "title": "Spring is here",
+      "body": "lugip8t",
+      "author": "Ambroze",
+      "date": "2021-04-12",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "author": "Sefora",
+      "content": "Interesting post",
+      "date": "2021-04-17",
+      "postId": 4,
+      "id": 1
+    },
+    {
+      "author": "Ana",
+      "content": "Nice post",
+      "date": "2021-04-16",
+      "postId": 4,
+      "id": 2
+    },
+    {
+      "author": "Ionut",
+      "content": "The post is too short",
+      "date": "2021-04-13",
+      "postId": 8,
+      "id": 3
+    },
+    {
+      "content": "Sun is shinning bright",
+      "author": "Aurora",
+      "date": "2021-04-17",
+      "postId": "8",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "oop-workshop",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "json-server -w db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
